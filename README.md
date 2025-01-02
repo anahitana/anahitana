@@ -11,7 +11,7 @@ Make sure to check out my [Portfolio](https://www.cs.mun.ca/~anikaien/)!
 - ⚡ Fun fact: I love playing Piano.
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://miro.medium.com/v2/resize:fit:720/format:webp/1*UxHoxcxQXAFMk4z-zl1wKw.gif)" width="100"/>
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*UxHoxcxQXAFMk4z-zl1wKw.gif" width="100"/>
 </div>
 
 ![Contribution stats]()
