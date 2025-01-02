@@ -2,7 +2,7 @@
 
 ###I’m a senior Computer Science student with a passion for solving problems through clean, efficient code. I love exploring everything from algorithms and data structures to full-stack web development and machine learning. When I’m not coding, you’ll find me tinkering with side projects or learning about emerging tech. Excited to collaborate on open-source and learn from fellow developers!
 
-Make sure to check out my portfolio 
+Make sure to check out my ![Portfolio](https://www.cs.mun.ca/~anikaien/) 
 - 🔭 I’m currently working on Real-time multiplayer game, though I haven't decided on the name yet.
 - 🌱 I’m currently learning more about AI Algorithms and Robotics.
 - 👯 I’m looking forward to collaborate on any project you have on hand as I'm always looking for learning opportunies.
@@ -11,4 +11,4 @@ Make sure to check out my portfolio
 - ⚡ Fun fact: I love playing Piano.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Contribution stats]()
