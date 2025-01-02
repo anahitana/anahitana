@@ -32,4 +32,5 @@ Make sure to check out my [Portfolio](https://www.cs.mun.ca/~anikaien/)!
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anahitan&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anahita&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anahita&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
