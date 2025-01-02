@@ -30,4 +30,6 @@ Make sure to check out my [Portfolio](https://www.cs.mun.ca/~anikaien/)!
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*UxHoxcxQXAFMk4z-zl1wKw.gif" width="600"/>
 </div>
 
-![Contribution stats]()
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anahitan)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anahita)](https://github.com/anuraghazra/github-readme-stats)
