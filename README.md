@@ -9,6 +9,15 @@ Make sure to check out my [Portfolio](https://www.cs.mun.ca/~anikaien/)!
 - 📫 How to reach me: anikaien@mun.ca
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love playing Piano.
+
+
+<h3 align="center">:fire: My Stats :</h3>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=anahitana&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
 <div id="header" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -26,13 +35,6 @@ Make sure to check out my [Portfolio](https://www.cs.mun.ca/~anikaien/)!
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-<h3 align="center">:fire: My Stats :</h3>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=anahitan&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
-  </a>
-</p>
 
 <div id="header" align="center">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*UxHoxcxQXAFMk4z-zl1wKw.gif" width="600"/>
