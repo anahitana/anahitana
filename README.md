@@ -11,7 +11,7 @@ Make sure to check out my [Portfolio](https://www.cs.mun.ca/~anikaien/)!
 - ⚡ Fun fact: I love playing Piano.
 
 
-<h3 align="center">:fire: My Stats :</h3>
+<h3>:fire: My Stats :</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=anahitana&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
