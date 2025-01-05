@@ -14,7 +14,7 @@ Make sure to check out my [Portfolio](https://www.cs.mun.ca/~anikaien/)!
 <h3>:fire: My Stats :</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=anahitana&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anahitana&theme=dracula" alt="GitHub Streak" /></a>
   </a>
 </p>
 
